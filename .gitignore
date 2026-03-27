@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Secrets - NEVER commit this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
