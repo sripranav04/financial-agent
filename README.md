@@ -1,4 +1,4 @@
-Let's make a professional README. Open `README.md` in your project root and paste this:
+
 
 ```markdown
 # 📈 FinAgent — Agentic AI Stock Analyst
